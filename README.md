@@ -1,5 +1,5 @@
 # tictactoe-app 
-Build using Reac.js, JavaScript, CSS, HTML. This aa web-app is a recreation of the popular game Tic Tac Toe made with Reac.js. A game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses. This project was used to get more familiar with React.js, following the instructions on https://reactjs.org/tutorial/tutorial.html. 
+Build using Reac.js, JavaScript, CSS, HTML. This web-app is a recreation of the popular game Tic Tac Toe made with Reac.js. A game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses. This project was used to get more familiar with React.js, following the instructions on https://reactjs.org/tutorial/tutorial.html. 
 This project also includes the solutions to all 6 tasks given at the end of the tutorial. 
 
 
